@@ -1,6 +1,7 @@
 <template>
     <div>
         <video width="300" height="300" ref="video" autoplay="autoplay"></video>
+        <video width="300" height="300" ref="video" autoplay="autoplay"></video>
     </div>
 </template>
 
